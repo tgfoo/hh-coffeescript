@@ -27,11 +27,12 @@ list2 = [
 ]
 
 # Objects
-person = {name: "Dale", appropriate: false, jobStatus: "Fired"}
+person = {name: "Dale", appropriate: false, deskLocation: "Far"}
 person2 = 
 	name: "Tim"
 	awesome: true
-	beersConsumedToday: 11
+	beersConsumedToday: 0
+	mood: "Thirsty"
 
 # Conditional Statements
 condition = true

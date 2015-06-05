@@ -20,13 +20,14 @@ gets passed on into the complied JS.
   person = {
     name: "Dale",
     appropriate: false,
-    jobStatus: "Fired"
+    deskLocation: "Far"
   };
 
   person2 = {
     name: "Tim",
     awesome: true,
-    beersConsumedToday: 11
+    beersConsumedToday: 0,
+    mood: "Thirsty"
   };
 
   condition = true;
