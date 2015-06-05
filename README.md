@@ -35,3 +35,5 @@ When you’re ready to check you’re work in a browser, I find running a simple
 ```
 python -m SimpleHTTPServer 8000
 ```
+
+If you’d like to learn more, check out the official documentation at [coffeescript.org](http://coffeescript.org/).
